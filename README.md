@@ -1,4 +1,6 @@
-# Spotify Music Discovery & Personalised Recommendation System
+# Spotify Music Discovery & Personalised Recommendation System — Business Analysis Case Study
+
+> **Case Study Disclaimer:** This is an academic Business Analysis case study based on a hypothetical/proposed solution inspired by Spotify's music discovery context. I am not an employee, representative, or contractor of Spotify, and this project does not represent work completed for Spotify.
 
 ## Project Overview
 
