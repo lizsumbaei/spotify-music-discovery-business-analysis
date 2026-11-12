@@ -10,6 +10,30 @@ The project examines business and user needs associated with music discovery and
 
 **Project type:** Academic Business Analysis Project
 **Focus:** Business Analysis, Requirements Engineering and Stakeholder Analysis
+## Project Artefacts
+
+This repository contains the following Business Analysis artefacts developed for the academic case study:
+
+| Artefact                                                                 | Description                                                         |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| [Requirements Analysis](requirements-analysis.md)                        | Analysis of business needs, requirements and elicitation approaches |
+| [Stakeholder Analysis](stakeholder-analysis.md)                          | Identification and analysis of key stakeholder groups               |
+| [Stakeholder Influence Map](Spotify%20Stakeholder%20Influence%20Map.png) | Visual stakeholder influence and interest mapping                   |
+| [User Stories](user-stories.md)                                          | User stories and acceptance criteria for the proposed solution      |
+| [Requirements Traceability](requirements-traceability.md)                | Mapping requirements to business objectives and solution outcomes   |
+| [Business Process](business-process.md)                                  | Analysis of the proposed music discovery process                    |
+| [Functional Requirements](functional-requirements.md)                    | Functional capabilities required by the proposed system             |
+| [Non-Functional Requirements](non-functional-requirements.md)            | Quality and performance requirements                                |
+| [Business Rules](business-rules.md)                                      | Business rules supporting the proposed solution                     |
+| [Assumptions & Constraints](assumptions-and-constraints.md)              | Key assumptions and limitations considered in the analysis          |
+
+### Visual Artefacts
+
+**Stakeholder Influence Map**
+
+![Stakeholder Influence Map](Spotify%20Stakeholder%20Influence%20Map.png)
+
+*Academic Business Analysis Case Study — Hypothetical Solution*
 
 ## Business Problem
 
