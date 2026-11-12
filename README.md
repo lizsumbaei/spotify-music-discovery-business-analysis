@@ -19,7 +19,7 @@ This repository contains the following Business Analysis artefacts developed for
 | [Requirements Analysis](requirements-analysis.md)                        | Analysis of business needs, requirements and elicitation approaches |
 | [Stakeholder Analysis](stakeholder-analysis.md)                          | Identification and analysis of key stakeholder groups               |
 | [Stakeholder Influence Map](Spotify%20Stakeholder%20Influence%20Map.png) | Visual stakeholder influence and interest mapping                   |
-| [User Stories](user-stories.md)                                          | User stories and acceptance criteria for the proposed solution      |
+| [Business Process Diagram](spotify%20infographic.png) | Visual representation of the proposed music discovery and recommendation process || [User Stories](user-stories.md)                                          | User stories and acceptance criteria for the proposed solution      |
 | [Requirements Traceability](requirements-traceability.md)                | Mapping requirements to business objectives and solution outcomes   |
 | [Business Process](business-process.md)                                  | Analysis of the proposed music discovery process                    |
 | [Functional Requirements](functional-requirements.md)                    | Functional capabilities required by the proposed system             |
@@ -32,6 +32,11 @@ This repository contains the following Business Analysis artefacts developed for
 **Stakeholder Influence Map**
 
 ![Stakeholder Influence Map](Spotify%20Stakeholder%20Influence%20Map.png)
+
+*Academic Business Analysis Case Study — Hypothetical Solution*
+### Business Process Diagram
+
+![Business Process Diagram](spotify%20infographic.png)
 
 *Academic Business Analysis Case Study — Hypothetical Solution*
 
